@@ -1,0 +1,44 @@
+
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(òş°ê8ÅÀÜ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(õÑ¯û8¦•ü¿Ü.
+G
+java:S1874
+"*Remove this use of "By"; it is deprecated.(ãÔÓÄ8¦•ü¿Ü.
+V
+java:S3252
+"9Use static access with "org.openqa.selenium.By" for "id".(ãÔÓÄ8¦•ü¿Ü.
+Y
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¾‘„×8ûç¢ÁÜ.
+}
+java:S3008"[Rename this field "TEXTOCOMPARACION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„šˆÈıÿÿÿÿ8ûç¢ÁÜ.
+ƒ
+java:S1104"aMake BOTONADICIONARCARRITO a static final constant or non-public and provide accessors if needed.(Ş±‡Œşÿÿÿÿ8ÅÀÜ.
+X
+java:S1444"6Make this "public static TEXTOCOMPARACION" field final(„šˆÈıÿÿÿÿ8ûç¢ÁÜ.
+G
+java:S1874"*Remove this use of "By"; it is deprecated.(¾‘„×8ûç¢ÁÜ.
+G
+java:S1874"*Remove this use of "By"; it is deprecated.(‹ı£º8¦•ü¿Ü.
+F
+java:S1874"*Remove this use of "By"; it is deprecated.( ¢ˆ8ÅÀÜ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯Öã§
+‚
+java:S3008"`Rename this field "BOTONADICIONARCARRITO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş±‡Œşÿÿÿÿ8ÅÀÜ.
+{
+java:S3008"YRename this field "BOTONPORCIUDAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†æï¥úÿÿÿÿ8ÅÀÜ.
+]
+java:S1444";Make this "public static BOTONADICIONARCARRITO" field final(Ş±‡Œşÿÿÿÿ8ÅÀÜ.
+V
+java:S3252"9Use static access with "org.openqa.selenium.By" for "id".(‹ı£º8¦•ü¿Ü.
+G
+java:S1874"*Remove this use of "By"; it is deprecated.(òş°ê8ÅÀÜ.
+V
+java:S1444"4Make this "public static BOTONPORCIUDAD" field final(†æï¥úÿÿÿÿ8ÅÀÜ.
+X
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".( ¢ˆ8ÅÀÜ.
+|
+java:S1104"ZMake BOTONPORCIUDAD a static final constant or non-public and provide accessors if needed.(†æï¥úÿÿÿÿ8ÅÀÜ.
+~
+java:S1104"\Make TEXTOCOMPARACION a static final constant or non-public and provide accessors if needed.(„šˆÈıÿÿÿÿ8ûç¢ÁÜ.
