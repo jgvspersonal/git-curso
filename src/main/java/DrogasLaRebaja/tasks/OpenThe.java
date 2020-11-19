@@ -11,11 +11,13 @@ public class OpenThe implements Task {
     private DrogasLaRebajaHomePage drogasLaRebajaHomePage;
 
     public static OpenThe page() {
+
         return Tasks.instrumented(OpenThe.class);
     }
 
     @Override
     public <T extends Actor> void performAs(T actor) {
+
         actor.attemptsTo(Open.browserOn(drogasLaRebajaHomePage));
     }
 }
